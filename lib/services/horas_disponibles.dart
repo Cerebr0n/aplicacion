@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-
+//esta clase muestra los horarios solo del dia actual
+//
 class HorasDisponibles extends StatelessWidget {
   const HorasDisponibles({super.key});
 
